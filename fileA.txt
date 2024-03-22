@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo " Good morning Francis, I am very happy to see you today!"
+sleep 1
+echo "I would like to play basketball with my team"
