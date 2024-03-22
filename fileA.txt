@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Today is Friday and I am very excited to start my weekend"
+sleep 1
+echo "Learnig python is the best programming language ever"
