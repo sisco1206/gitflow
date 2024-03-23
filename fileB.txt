@@ -1,0 +1,4 @@
+#!/bin/bash
+echo " Good morning Elona, what is your grade?"
+sleep 1
+echo " My math teacher is the best fo the school"
