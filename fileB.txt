@@ -1,7 +1,0 @@
-#!/bin/bash
-
-echo "Learning bash scripting is the best thing ever"
-sleep 1
-echo "I am very passionnate about writing my first script"
-sleep 1
-echo "Python is my favorite programming language to learn and code"
